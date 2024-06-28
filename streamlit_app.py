@@ -5,7 +5,7 @@ from pathlib import Path
 import altair as alt
 import numpy as np
 
-from st_aggrid import AgGrid
+#from st_aggrid import AgGrid
 
 
 # Set the title and favicon that appear in the Browser's tab bar.
